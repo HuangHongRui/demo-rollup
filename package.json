@@ -1,0 +1,23 @@
+{
+  "name": "demo_rollup",
+  "version": "1.0.0",
+  "description": "还是玩~",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "还是玩~"
+  },
+  "author": "Leo",
+  "license": "ISC",
+  "dependencies": {
+    "rollup": "^2.55.1",
+    "utils": "^0.3.1"
+  },
+  "devDependencies": {
+    "rollup-plugin-json": "^4.0.0"
+  }
+}
